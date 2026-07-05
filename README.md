@@ -31,5 +31,5 @@ that's where 80% of customers are lost.
 
 How to Run
 1. Clone this repository
-2. Place `Online Retail.xlsx` in the project folder or add appropriate path
-3. Run `Analysis Online Retail.ipynb` in Jupyter or VS Code
+2. Place Online Retail.xlsx in the project folder or add appropriate path
+3. Run Analysis Online Retail.ipynb in Jupyter or VS Code
